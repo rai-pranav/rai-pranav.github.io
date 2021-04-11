@@ -1,0 +1,52 @@
+
+.sidebar{
+    margin-top: 10%;    
+/*    width: 80%;
+*/    position: fixed;
+    height: 5%;
+    background-color: #f1f1f1;
+    visibility: normal;
+    margin-left: auto;
+  	margin-right: auto;
+}
+
+.alphabets{
+	background-color: #5B84B1FF;
+	font-size: 30vh;
+	text-align: center;
+
+}
+
+#sator{
+	margin-top: 40;    
+/*    width: 80%;
+  position: fixed;*/
+    height: 5%;
+    visibility: normal;
+    /*margin-left: 5%;*/
+  	margin-right: 5%;
+  	/*background-color: rgb(255,255,0);*/
+  	/*align-self: center; */
+}
+
+#user_input{
+	margin-top: 20vh;
+	/*margin-left: 30vh;*/
+	margin: auto;
+
+/*	height: 20vh;
+	width: 40vh*/
+}
+
+#submit_row{
+	margin: auto;
+	text-align: center;
+}
+
+table{
+	border-style: ridge;
+	margin: auto;
+}
+
+
+
